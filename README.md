@@ -3,7 +3,7 @@ Mod Raspberry Pi 4 UEFI Firmware
 
 - Auto Disable Limit 3GB
 - ACPI
-- Latest Brach
+- Latest Pull
 
 
 ![alt text](https://github.com/gamebrot/raspberry-pi-4-UEFI-firmware/blob/main/ss.png?raw=true)
